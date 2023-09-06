@@ -1,0 +1,9 @@
+{
+  "EmailTxtBox": "#user-name",
+  "LoginBtn": "#login-button",
+  "passwordTxtBox": "#password",
+  "errorMessageTxtBox": "h3[data-test='error']",
+  "productTitleTxt":".title",
+  "dashBoardBtn": "#react-burger-menu-btn",
+  "logoutBtn": "#logout_sidebar_link"
+}
